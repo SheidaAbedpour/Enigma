@@ -1,0 +1,500 @@
+Date: 1944/12/25
+PlugBoard: [ly, cs, af, ei, wr, kt, hu, pd]
+Rotor1: [uoyrtgmhwefzclsqxpjakdbnvi]
+Rotor2: [rsvzixtuogyhladjwmbkqcpfne]
+Rotor3: [oshyinwrumdtvpxjfzalcqkgeb]
+Date: 1941/3/1
+PlugBoard: [jg, ac, so, bi, zm, yf, qk, tn]
+Rotor1: [neztcjrdsquibwmkafhplvyxgo]
+Rotor2: [qksgyzfnwihrxlpjvcmabuetdo]
+Rotor3: [lbxqmhpcdisagynjftkzowvuer]
+Date: 1943/3/5
+PlugBoard: [dg, bf, mu, jc, ka, sy, hl, ox]
+Rotor1: [tpuoyjmhwbndqkilvrgfszcxea]
+Rotor2: [tscfzhbidkvgmawreqxlpnoyju]
+Rotor3: [zdoglfbqcxjhneauivptwmskry]
+Date: 1939/2/15
+PlugBoard: [gn, qy, dr, wf, hi, zv, ko, ms]
+Rotor1: [aosimtrjzphwnuxvqebgflykcd]
+Rotor2: [shobgmvnjflxdwueikpaqryzct]
+Rotor3: [daosjriypkxqvnfzbugelchmtw]
+Date: 1944/12/20
+PlugBoard: [pz, jl, wn, rd, uc, gq, hm, ve]
+Rotor1: [tbeqpoudhsirmwvzflncaygxjk]
+Rotor2: [oszcvtlwxeknhapgubrqymfdij]
+Rotor3: [udsmxpkobfiwrzjqncyehvtalg]
+Date: 1940/7/16
+PlugBoard: [zt, hl, rm, de, wa, iu, xg, jf]
+Rotor1: [cnjfxwhekvqgdaymuirpzblots]
+Rotor2: [lrpksactfhjxnwvmeubqzdoigy]
+Rotor3: [nevzsuljigrfdbpohkacwqmxyt]
+Date: 1939/5/13
+PlugBoard: [sq, nb, ge, fp, zt, ha, ck, mx]
+Rotor1: [idtgxjymrcubezvklwanoqfpsh]
+Rotor2: [nucjaofbskgelydwvpitzmxqrh]
+Rotor3: [djhrnfzlokeacusipgtwyqvmbx]
+Date: 1939/10/24
+PlugBoard: [hs, mj, iu, rq, vc, fo, kn, dt]
+Rotor1: [nzjmdfiwghvoepcysxblrqutka]
+Rotor2: [gkvqexyumdrpcohatnsbwfilzj]
+Rotor3: [efwuasbydvtmkipogczljnxqhr]
+Date: 1942/5/24
+PlugBoard: [nv, to, sk, zl, qa, ij, cd, pe]
+Rotor1: [qlktzcumfvwrnoxapdejibgshy]
+Rotor2: [bzlwnyqxaevupdmcsrkghftjoi]
+Rotor3: [jokrydqxgeclhmuziwbfpsntva]
+Date: 1944/10/7
+PlugBoard: [dg, vm, wf, xu, qp, lz, ci, nh]
+Rotor1: [iuohpgcjbtyxnesvrdfzqlkamw]
+Rotor2: [rjkncdflvqtpagomshieyxbzuw]
+Rotor3: [kgsuldbyrcmpjzaxoefivtnqwh]
+Date: 1944/5/10
+PlugBoard: [oz, pw, ju, av, fd, tm, qs, yk]
+Rotor1: [dasqekpwtbucxfzjyrlogihnvm]
+Rotor2: [hswemxgjiuodqbpflcnykvzrta]
+Rotor3: [golnhkybqudpjzvrmsewtxicfa]
+Date: 1943/10/22
+PlugBoard: [ua, xy, rl, pn, zf, co, sg, dk]
+Rotor1: [hyiurfxqgledncamvowbjzstkp]
+Rotor2: [pogxtemicnkwslvzfdruybjhqa]
+Rotor3: [xdlgavskienpcubwomzfhryjtq]
+Date: 1943/10/29
+PlugBoard: [ol, nr, yv, ak, sx, zw, ug, df]
+Rotor1: [xvsepidkojhwqrycfbgaultznm]
+Rotor2: [aplfqsxdubcrghkmvynijetowz]
+Rotor3: [auwmixghjtnfbzpovrdelkscqy]
+Date: 1939/5/19
+PlugBoard: [ju, eg, ds, zi, yo, nr, al, fp]
+Rotor1: [ydmutrqoxnhvfwkcilspbejagz]
+Rotor2: [ucxfaiqvhegrodnzpblmktyjsw]
+Rotor3: [pvghjtexwsfiuoldqnkamcrbyz]
+Date: 1943/7/28
+PlugBoard: [kc, nb, tr, dz, hp, fg, le, yv]
+Rotor1: [dpmkrobzieyqxtncaljvsuhgfw]
+Rotor2: [gqoihafudwyksnmevbjzrlxctp]
+Rotor3: [kxqwyvpruazbhdeomtjlngiscf]
+Date: 1944/8/10
+PlugBoard: [mw, lo, nc, vh, ys, da, ti, rz]
+Rotor1: [tkaeyduvrcfwxphiqjmsonbglz]
+Rotor2: [bhlcyqsjrntwgipkaxdozmeufv]
+Rotor3: [wxhvcpbzensolukmytjaigrdfq]
+Date: 1941/10/8
+PlugBoard: [rj, yb, vx, wp, zf, gq, ol, sn]
+Rotor1: [bpfncwagheyrkldtiuqsmoxjvz]
+Rotor2: [pyjcubxwdfvehtgiakmzrnqlos]
+Rotor3: [sdaubhvepwoflitnzjcyrqkmxg]
+Date: 1940/7/20
+PlugBoard: [tl, ip, zw, yc, ab, ro, ku, fn]
+Rotor1: [zublfeyopmcgjsrxtknvahdiwq]
+Rotor2: [wkhfosagqrvjlmndtecupiyxbz]
+Rotor3: [uxenkgbdqjcirhoafwszylmvpt]
+Date: 1945/11/11
+PlugBoard: [fy, ve, dp, am, ru, tc, kn, wh]
+Rotor1: [xunioeqytbsvkzldcmgfahpwrj]
+Rotor2: [sepgtjbxayunikflovzcrwmqhd]
+Rotor3: [lzphgkusrvbjwineaocmtxqfyd]
+Date: 1940/2/15
+PlugBoard: [ge, ym, xa, tn, pz, fq, sk, cv]
+Rotor1: [swerknqmhyfldijaxzuvtgopcb]
+Rotor2: [cbrtyximogndvkjaflhqwzeusp]
+Rotor3: [jfmolsuhqeyirkngxcavdtpzwb]
+Date: 1941/10/18
+PlugBoard: [mf, gq, kp, hj, ax, vu, ow, ye]
+Rotor1: [ewasovkglmdjuntpchifzyrqxb]
+Rotor2: [zohkcgibpnewdumtyaqrvxljsf]
+Rotor3: [tsgplzuejyvkawdifmbocqxnrh]
+Date: 1944/8/4
+PlugBoard: [pf, ch, dy, qk, jz, bo, au, nr]
+Rotor1: [mflawzdscgxqbojnkpyuriehvt]
+Rotor2: [gjfrloxeahiysknubvpqctdzwm]
+Rotor3: [oxdyfcvkztaiesnmrhqpwuljgb]
+Date: 1941/10/14
+PlugBoard: [gr, cp, yw, en, ak, qj, vf, ud]
+Rotor1: [xpczijoynwbsgqvrhakdeftlum]
+Rotor2: [xbdzcjmprysaetkohnfwgqvuli]
+Rotor3: [asnrpbvziqfxlewtdumoyjkcgh]
+Date: 1945/8/23
+PlugBoard: [ng, sk, ot, ih, dp, jm, vb, ax]
+Rotor1: [azyprigfbsxdnvwquljkeocmht]
+Rotor2: [dkqocbegmrxiwjtvpnafhsuyzl]
+Rotor3: [tqlixzdjecrkfyawvbosgnmhpu]
+Date: 1939/9/4
+PlugBoard: [si, jz, hk, mo, ux, yg, de, pl]
+Rotor1: [lponeydxrtvkwjgabmcifusqzh]
+Rotor2: [wkcygmjtneldvxhsfzaribopqu]
+Rotor3: [anlokfpsxhecdgmyjrqtvuwibz]
+Date: 1945/6/23
+PlugBoard: [gk, nt, ce, ih, lp, xm, rv, fz]
+Rotor1: [wkchnbtyjrzlxgfispomedqvau]
+Rotor2: [izgocwnfaehurkslxpymvdtjqb]
+Rotor3: [qjtfiozsrbawcvuxpymhendlgk]
+Date: 1944/2/18
+PlugBoard: [ol, cb, pn, gi, jw, tm, sz, ea]
+Rotor1: [hkywsfjndvtzluaxiemocqrpgb]
+Rotor2: [rsquholxdepmvwnzkbycjgtaif]
+Rotor3: [gsxlmnukrcfpazeqivhbjytdow]
+Date: 1942/3/13
+PlugBoard: [rt, zm, ik, ab, eo, pu, dw, hj]
+Rotor1: [oapgmynxzdfvwcjsibueqhtrlk]
+Rotor2: [dvpbmlorihscfewjkquatnygzx]
+Rotor3: [xtdjyiegowvzqlpchsamnufrbk]
+Date: 1943/4/9
+PlugBoard: [nx, kq, hl, ti, fw, gs, em, uj]
+Rotor1: [bosdntqchpmkjleyazfxugwvri]
+Rotor2: [hytsqugoiapxwdzemlknfvcjbr]
+Rotor3: [hjuyoackmwgnldxepfqrtivbzs]
+Date: 1941/1/20
+PlugBoard: [lt, nz, hv, by, eo, rk, gd, xs]
+Rotor1: [qzevloxkfahgdirtwcmnbpsjyu]
+Rotor2: [yevqfckpmzxadhiojsnrgwlutb]
+Rotor3: [ewbqpdiotjygsvzurhnxclmfka]
+Date: 1944/7/25
+PlugBoard: [td, un, ka, vo, cf, sr, ix, qm]
+Rotor1: [vqnxehytolkamdpfuizrwcbsjg]
+Rotor2: [fdnwbqrpamosykgtzvixljuech]
+Rotor3: [jyvdnzrotqkbhagmxiusclwpef]
+Date: 1940/5/17
+PlugBoard: [gj, ep, cf, sk, ri, ay, od, bl]
+Rotor1: [gupqxrikwbaecnjtodvsmzhylf]
+Rotor2: [inytkrwjzhlamoxvqbegdufscp]
+Rotor3: [wdspvqmzoinkejcgfybxhalrtu]
+Date: 1943/8/24
+PlugBoard: [cd, eb, gp, oh, qw, sy, xj, tz]
+Rotor1: [jtbskulizmnvrcewfgdphxqoay]
+Rotor2: [dpjtfnryhqlgksmbvwaczouixe]
+Rotor3: [fmotpheiscyundkjxlrvwaqbzg]
+Date: 1940/11/24
+PlugBoard: [wv, jz, ga, pn, ct, bx, mh, fs]
+Rotor1: [ofpycxnzeabvswmjhuqtlrigdk]
+Rotor2: [rdwcqipnvfmsykbhogaltxjeuz]
+Rotor3: [bysckafomtipezdglvqrjhnwux]
+Date: 1942/6/7
+PlugBoard: [ae, vi, zy, ot, ku, lh, wr, xd]
+Rotor1: [jsmnkurtpzlixfybahwqvodecg]
+Rotor2: [zalkiuqmdtgobswfyxhjepvncr]
+Rotor3: [pkqmuvgcywlaejisdtxfhzobrn]
+Date: 1945/3/20
+PlugBoard: [ts, ry, xe, dg, ku, jb, wp, fz]
+Rotor1: [clyiveanhrdufqjxktozmwbpsg]
+Rotor2: [vlapshxkdnzgtibcerwyfjquom]
+Rotor3: [xavotdjpkemhrywqgizsfcubnl]
+Date: 1939/12/10
+PlugBoard: [ks, qi, zn, ju, gm, yw, pl, ae]
+Rotor1: [lrjupnqaidmythkfvbzwsxcgeo]
+Rotor2: [tvahqgnmzsyuokrwepixbcfljd]
+Rotor3: [yenwacxjrfogdqibmtukhzlpsv]
+Date: 1939/3/19
+PlugBoard: [rn, tw, au, xv, ks, jq, mo, ec]
+Rotor1: [lcgnhyqtejvfuokraimpxdbwsz]
+Rotor2: [ludighjaceonmsxbfrpyktzwvq]
+Rotor3: [bcjvrefkqmtwogsylzpdhiuxna]
+Date: 1939/3/16
+PlugBoard: [bn, ap, dm, ex, lk, gt, jw, qi]
+Rotor1: [gbrsjcqkmvwxyopdtizhufnael]
+Rotor2: [cegwxpdutknmsbvfayqizrjolh]
+Rotor3: [alchoikezxfudtjrnqvpbgymsw]
+Date: 1940/8/17
+PlugBoard: [rj, us, vh, wy, mg, pc, kq, be]
+Rotor1: [pnvegfsiyuckzqowjrabhdlxmt]
+Rotor2: [tgvrdpoewbmhxkfisqalyznjcu]
+Rotor3: [hdeogfruvpziktwbcnasmlyjqx]
+Date: 1942/10/29
+PlugBoard: [ku, gd, xv, zm, nh, lp, ci, ej]
+Rotor1: [eurxijamnykdqfcsovbzthwgpl]
+Rotor2: [fexudjiylzwkmspbqharncvgto]
+Rotor3: [bjpirvfdtcmxyeqzgkunlohasw]
+Date: 1943/5/25
+PlugBoard: [fp, ce, tx, uq, lv, bs, zm, yh]
+Rotor1: [tlqfkrdxybhvmezwscpjauongi]
+Rotor2: [mhpjayxzuvbdqwetsrgokficln]
+Rotor3: [ezhrunfakvpjtgqosicyxmwdlb]
+Date: 1943/8/16
+PlugBoard: [ne, zm, wy, lr, ia, cg, ds, ko]
+Rotor1: [jqwdbpoztgnkexsmrciahylufv]
+Rotor2: [fcdmlrbgxputqkwyeohjsaivzn]
+Rotor3: [axjpimcsgrubhqkfodevywlntz]
+Date: 1942/1/16
+PlugBoard: [my, pt, sd, ik, zg, ra, bh, wv]
+Rotor1: [dmystvezohbfqxljciuranpgwk]
+Rotor2: [twlgbfdrnpxikyhuscmojvezqa]
+Rotor3: [qbpzlwntcesfkodyugvmirjaxh]
+Date: 1942/10/24
+PlugBoard: [ug, mz, er, ch, di, qy, fs, lw]
+Rotor1: [bkgifdqmovhwpaxztsuenljryc]
+Rotor2: [lyjeofrbsvgtwnmducapkxiqhz]
+Rotor3: [qaxmnivsydfcljropugbheztwk]
+Date: 1942/1/14
+PlugBoard: [ud, es, ot, bf, yj, lv, zh, kw]
+Rotor1: [hqpisfjrznmxyeatvokwbdlgcu]
+Rotor2: [bsjfvthulraqwcdxzmyepnkgoi]
+Rotor3: [vacbzxlfmskirhdynoqgjuwtep]
+Date: 1940/8/11
+PlugBoard: [ru, cx, qg, fl, kh, ts, bo, ve]
+Rotor1: [plygbifwqrcmtxhsvjdukoznae]
+Rotor2: [vcdyefjrbmtuqplgkniazxwohs]
+Rotor3: [uwfnokxbcgevaitqmpyshjrzdl]
+Date: 1942/9/10
+PlugBoard: [qt, ax, wg, hd, us, ly, fk, en]
+Rotor1: [woutesaykjlzfvbhinrpgdxcqm]
+Rotor2: [upxjmkigwfeqbzadysnrvcothl]
+Rotor3: [rbhandomfycvuqpsxgizwjkelt]
+Date: 1941/3/26
+PlugBoard: [fh, ak, vp, wx, gy, mu, jq, nd]
+Rotor1: [pwjyqachrumdnskexgizbvtfol]
+Rotor2: [rhuspnbwcejzdkiyftovmqgalx]
+Rotor3: [soiledtznfgmwuvrxakpqyhcbj]
+Date: 1944/1/28
+PlugBoard: [wx, cq, vm, zg, ht, be, df, py]
+Rotor1: [tiaurnchbmjsvfzgwelypqdxok]
+Rotor2: [rixloftvgwbdpqzushnyacejkm]
+Rotor3: [wgudztfoavbkrlhjyeimqpcnsx]
+Date: 1943/12/7
+PlugBoard: [ef, uz, pj, io, dm, cw, sv, yx]
+Rotor1: [brlthsmjdgwpkafnxcuzqeviyo]
+Rotor2: [mygplabqwitouxjzcsfvendrkh]
+Rotor3: [pzsmtokwueyrlqjbhfadgxincv]
+Date: 1941/6/19
+PlugBoard: [my, fu, ni, qs, bo, gv, wl, kr]
+Rotor1: [qvsixrjkplcbtuzhnfmadewgoy]
+Rotor2: [plsyzbimqgwfxkudhojtrnevac]
+Rotor3: [asghnprlijotcfekydzxubqvmw]
+Date: 1943/9/5
+PlugBoard: [ej, ty, wd, pl, om, bx, fn, uq]
+Rotor1: [necikwlzmuyfdahbjrtqpgvosx]
+Rotor2: [uefmgbycsqlrzhwivapdnktoxj]
+Rotor3: [hrbslpwazoycdkqxgumfintjev]
+Date: 1944/4/16
+PlugBoard: [cv, kf, zb, ws, ox, ty, hr, eu]
+Rotor1: [simctanhvokuydewxzgrqjfplb]
+Rotor2: [abmhrxytlupjvwsfekdqcoignz]
+Rotor3: [pdorzwcvajuilxsnehfqymtbkg]
+Date: 1943/3/30
+PlugBoard: [jk, mn, ia, rt, ye, gh, cf, lo]
+Rotor1: [dfxtpbrweyqovcshiznlagkjum]
+Rotor2: [pktoecibdwglmfxyjnzvusharq]
+Rotor3: [lgwuodvpmcaqefhjtbsnkxziry]
+Date: 1940/12/15
+PlugBoard: [nm, za, iw, ue, hp, ok, ld, rb]
+Rotor1: [gwmhpsdlctbevuoqzxnykrfiaj]
+Rotor2: [dbxrevhapmojzqclnfuwskiytg]
+Rotor3: [lvszgfdkcbpeqihojtwaxrmuny]
+Date: 1943/12/2
+PlugBoard: [ay, qm, el, sw, hi, up, bf, nt]
+Rotor1: [blxyptrvsgiwcknaojumzheqfd]
+Rotor2: [mbudygsxaejtfcnzqhpkrvwlio]
+Rotor3: [sbtirphmlnadeuzcywgkxvqjof]
+Date: 1941/11/17
+PlugBoard: [fd, ge, mc, px, rk, wb, iy, vn]
+Rotor1: [nkqtygambhoisrlvpfwxucjezd]
+Rotor2: [jhblwcgsporzuvnaxetdkqmyif]
+Rotor3: [czkryiadgsephmwvqnouflbxjt]
+Date: 1945/10/17
+PlugBoard: [pf, lw, ot, qk, rv, hj, yg, sx]
+Rotor1: [ioavyztpkwhnrjscgmqfluebdx]
+Rotor2: [mqcsroaidetfkybzjnhxvlpwgu]
+Rotor3: [pmuablvsotdcreiqgfxwyjznhk]
+Date: 1944/11/23
+PlugBoard: [jf, og, hu, qx, kd, zc, ia, wp]
+Rotor1: [edxyabghvnsukwjmltfcrzqiop]
+Rotor2: [wlaqodnjsvxcztepihburkgmyf]
+Rotor3: [vylzbgdjernaxswitckmophfuq]
+Date: 1939/1/15
+PlugBoard: [kl, es, ip, ux, cv, tw, qb, mr]
+Rotor1: [muhcolgdaiypkbtzxqjnrwesvf]
+Rotor2: [dpumogrvclhsnyqkfjibxwztea]
+Rotor3: [qpgfnjlmbeozdkathvixcryusw]
+Date: 1941/9/17
+PlugBoard: [pe, rs, mn, ho, bi, tx, zq, cd]
+Rotor1: [aeqvtuhbzdmxoginfrylsjcwpk]
+Rotor2: [udrlijhoftakvxsewnpycgzqmb]
+Rotor3: [cuzfsdlbtvxhjamneprgiyoqkw]
+Date: 1941/9/16
+PlugBoard: [sp, az, fy, eo, vn, gw, ri, lq]
+Rotor1: [afxrjukbpqmvitdhwynszoglce]
+Rotor2: [wtjmuiqefbakhlsvrnxydcopzg]
+Rotor3: [eadcthslvqgpkbiywujznfmrxo]
+Date: 1944/6/22
+PlugBoard: [sy, qi, ol, xj, fv, td, ga, pn]
+Rotor1: [fitapceronusxkyhqbwdgvzjml]
+Rotor2: [jkzdxtrafsbwpcyuqiovenmlhg]
+Rotor3: [rfgwtipuxabcszqokvdmlhjyne]
+Date: 1944/9/15
+PlugBoard: [hg, uj, il, cb, ke, xy, sa, dt]
+Rotor1: [nbpqzcgrxmohuytwdkasevjlif]
+Rotor2: [eaqxogzlmdstfhvurwyinbpkjc]
+Rotor3: [nthqkalzsxvewudbcimjfporgy]
+Date: 1945/4/8
+PlugBoard: [ba, xk, fp, hc, gv, qi, jd, rm]
+Rotor1: [tufnslcdawpybmgrzqxvhjkeoi]
+Rotor2: [kdguysnhpejlrwambxitvozcfq]
+Rotor3: [fgzqpyahkbtdinvrxjlewmuocs]
+Date: 1944/1/13
+PlugBoard: [rc, ib, dw, jt, za, go, qp, ny]
+Rotor1: [wuslrhqypfogxzmcdtbjakenvi]
+Rotor2: [ekwjlvxyznmaogihsqubftrdpc]
+Rotor3: [zcqfkdmbitarnopyglvuwexsjh]
+Date: 1945/11/6
+PlugBoard: [dx, cb, gj, fo, rw, ks, at, yl]
+Rotor1: [euojdbqzfmtginyprxacvslwkh]
+Rotor2: [txhmngyvwbaepdsuzilfcjqork]
+Rotor3: [jiltyzwpqfceahkdmsnrgbuoxv]
+Date: 1944/6/30
+PlugBoard: [ip, dx, ev, tw, ca, fy, gj, lq]
+Rotor1: [zbxdrjvngseqhkoytlupamwifc]
+Rotor2: [vkjohdctsgxfyqbmwirpuzenla]
+Rotor3: [pjhsoauyedvfltmzigcqwrnbkx]
+Date: 1942/12/22
+PlugBoard: [it, qg, wj, vz, bk, ey, rl, uc]
+Rotor1: [hsuojidpxfawqtkzcrybnmelgv]
+Rotor2: [bruziwsohtndgcjvxmlkfyqepa]
+Rotor3: [jalzrvhktdnbgyqiwspcuexfom]
+Date: 1941/11/27
+PlugBoard: [lu, cr, ea, nx, fj, qh, wt, sb]
+Rotor1: [rapbcqxnsidgeoztwfjvkhulmy]
+Rotor2: [tfgwdolqrjypkuczbxisnvemha]
+Rotor3: [biyjqxnovhguzermawdfslkctp]
+Date: 1939/8/8
+PlugBoard: [wm, ka, uj, nt, xp, dl, cb, rv]
+Rotor1: [kcyfjhmzdabvrtuiqsxpwenlgo]
+Rotor2: [piueojkbtqrxchmfalzyngswdv]
+Rotor3: [rnhjelyqzxkmcwgsuoatipdfbv]
+Date: 1940/3/25
+PlugBoard: [ke, gy, ha, wz, ju, ql, sn, cv]
+Rotor1: [misqkxjhcnbogzaepvtfrylwud]
+Rotor2: [xrnhevfbtpijaydwkzmsqcgluo]
+Rotor3: [zcosqhgbrpwvlfnkmduxteyjia]
+Date: 1944/6/5
+PlugBoard: [jc, vh, mr, ba, li, ft, qu, ds]
+Rotor1: [egfdapuikvmcnsqlxrywozjhtb]
+Rotor2: [shlmxvbpdyjtecfuqnrazkwoig]
+Rotor3: [varftcheokdyiqspmgjxbwlunz]
+Date: 1943/3/29
+PlugBoard: [vo, fh, ya, tz, cu, nw, pm, jx]
+Rotor1: [azlsjbfirpvnqdcwtmgyeohuxk]
+Rotor2: [hnqzpoiadlekcstguvwbryxjfm]
+Rotor3: [nhmzkjqugtdvcxbpsrywfiaelo]
+Date: 1940/3/24
+PlugBoard: [kv, zm, dg, os, qn, wi, ec, tu]
+Rotor1: [gfbpuhrcyvknwladjzoiqmtexs]
+Rotor2: [bsqkpxacuzlmrhyoijtfnvedwg]
+Rotor3: [kfsnjbqpxhcgzyirouldwvteam]
+Date: 1944/10/22
+PlugBoard: [ln, ob, wu, zc, fx, ip, hy, sr]
+Rotor1: [nlykmcwvuixeatgpsbrfhqodzj]
+Rotor2: [jbkdpvhzqilnmoeryfwxgtcusa]
+Rotor3: [dmnarhifeltwubzpvcoyqkxjsg]
+Date: 1939/7/7
+PlugBoard: [ks, rb, iz, fd, wp, cn, ge, xu]
+Rotor1: [bhpruktozfsnveaqjixmwgdlyc]
+Rotor2: [takwmlhebsxrjqynzocgdipfuv]
+Rotor3: [hnvzcfdkpuewosmjyaqibxlgrt]
+Date: 1943/6/9
+PlugBoard: [lj, bg, un, ar, yx, mi, ps, cd]
+Rotor1: [nruyxchektqjzgiambdlpfowsv]
+Rotor2: [efxbslakzihoctvgrnqdpjyuwm]
+Rotor3: [xdnbtpymfhqjolzeaigkuwvsrc]
+Date: 1941/6/2
+PlugBoard: [ko, ep, di, ts, gz, vh, uw, ay]
+Rotor1: [ysiwmgqoxehztnjupcakdbfrlv]
+Rotor2: [dcqxojesknlpyzgbhrvaiwftmu]
+Rotor3: [lazemdsfnpthgyjbwoxukqrvci]
+Date: 1943/7/17
+PlugBoard: [ib, gc, nf, qm, pt, xy, jr, ea]
+Rotor1: [imfnkjpoyxrszdlwtaebhcqvug]
+Rotor2: [tvywnpjebsguhrcakxzlimoqfd]
+Rotor3: [trekwophzcvmbqiflyjdauxsgn]
+Date: 1940/6/29
+PlugBoard: [ok, pu, ve, ih, ml, xs, cg, zr]
+Rotor1: [tizvhboenajyrcxugpkfsmdqlw]
+Rotor2: [kdfouwtengzqshclyxibrjpamv]
+Rotor3: [pzfitevkujxbcnhwlgadryqoms]
+Date: 1942/12/15
+PlugBoard: [zc, ea, ox, bg, hv, nd, ji, qm]
+Rotor1: [clgartwphszxbujveqkofmidyn]
+Rotor2: [smbiyhxaewotzpvjuqnckflrdg]
+Rotor3: [kjcliuobeamtxswpzfgrhdyvqn]
+Date: 1939/11/8
+PlugBoard: [kl, un, jz, xr, wb, hv, pg, qt]
+Rotor1: [lcsuzfgqjpbkdomyextvrnwahi]
+Rotor2: [ugqbxahplyocjfiwnsemkrdvtz]
+Rotor3: [nagbuodyhmpskqfrzeclijxtwv]
+Date: 1945/7/9
+PlugBoard: [ku, et, bx, wf, lp, iz, om, gr]
+Rotor1: [jsretxhlpfydvunomkgiwzacqb]
+Rotor2: [oxwytvkhmcjbgzreslafuipqnd]
+Rotor3: [xachobjnltkgveqpyswmzrfdui]
+Date: 1942/2/12
+PlugBoard: [jk, lv, ri, xq, ea, ot, yn, wg]
+Rotor1: [acxbtzwhopqsrvlknmygdujief]
+Rotor2: [zwcvsltmkfgqaiopuxjynderhb]
+Rotor3: [ojtezfqlhnxvdbuamigycrpswk]
+Date: 1944/1/1
+PlugBoard: [ku, ao, wq, jc, ih, tp, xl, rg]
+Rotor1: [qeixufojdhnkblgpcwytzvrsam]
+Rotor2: [gdytfslbpjmuweoiqncxazrkvh]
+Rotor3: [jmvwzepiyxtdknhlufcsagqobr]
+Date: 1942/7/29
+PlugBoard: [xq, sm, pk, zw, ha, lv, un, fj]
+Rotor1: [fctdazimbupgqsvlwrjkeohnyx]
+Rotor2: [shbywqzgxpfvaijtlkdcrounme]
+Rotor3: [jiteunqwszkblfpymaxdrvchgo]
+Date: 1944/3/14
+PlugBoard: [pg, ia, bl, fw, hd, cy, km, sz]
+Rotor1: [nyvwqzglksbxurijdohtcapmef]
+Rotor2: [aiwhyndoevfxrsgzbtjlcpqmku]
+Rotor3: [wahqvmgsfjintyxbredzpclkuo]
+Date: 1940/12/20
+PlugBoard: [lp, fn, kr, jo, wi, qh, ay, us]
+Rotor1: [tugkonzxrisfwybvqhcjmealdp]
+Rotor2: [uykcrdqsejapgbmvxnwithlfzo]
+Rotor3: [hrvikueqgbsnxolmapzjwtfydc]
+Date: 1943/1/20
+PlugBoard: [gj, yb, qu, mp, wt, nz, oe, ls]
+Rotor1: [dciyfrbvnzopsekjglxhmutaqw]
+Rotor2: [majnhyquzevofcbksldpwrtigx]
+Rotor3: [ecgmfsnalbzojivxkdpwqtuyhr]
+Date: 1942/10/3
+PlugBoard: [vy, zs, dr, qa, hj, pn, co, kb]
+Rotor1: [kaqbgetiylvwnormhczpxjfdus]
+Rotor2: [genboazphiwdkfrtvmyuqjlcxs]
+Rotor3: [ynfbkzlpvhgwiuaorscxmtqjed]
+Date: 1944/5/9
+PlugBoard: [ke, hu, zb, lr, dj, sq, ay, ig]
+Rotor1: [vstdkijubfpxhcyoamezwlqngr]
+Rotor2: [puzqxnikwtbcvolrhgefaysdjm]
+Rotor3: [cleakiywnqsuxrgzomjbvtpfdh]
+Date: 1943/4/11
+PlugBoard: [jm, aw, eb, fr, td, ch, gn, yu]
+Rotor1: [erwxdpufstczohanijlvgykbqm]
+Rotor2: [glxkemozhpfqydvcutribaswjn]
+Rotor3: [dcvngpuhwijktsrzbaefylxmoq]
+Date: 1945/10/5
+PlugBoard: [qk, dm, za, tp, bj, hi, nw, oc]
+Rotor1: [ormtyfhzendisalpgwuxkcjqvb]
+Rotor2: [nbelsycowgzmhkaqfvtuijxprd]
+Rotor3: [expgjycioslfkmazbvqruhtdnw]
+Date: 1943/1/28
+PlugBoard: [qn, ks, wj, zv, tm, oa, cp, ld]
+Rotor1: [csijlbakzdvmuhqopywxefgrtn]
+Rotor2: [urvdtszlbwfoaijgcqkhpyxmen]
+Rotor3: [dphgsuvmytzfreiaknobjwxcql]
+Date: 1940/9/21
+PlugBoard: [it, ms, lv, xb, uo, ca, fg, re]
+Rotor1: [ytohnubszemfdigwrcpakvlxjq]
+Rotor2: [tbiqhrmvxudpelyfojczwgkasn]
+Rotor3: [necoigztlbvdfuyxkahrwqjmps]
+Date: 1940/4/18
+PlugBoard: [sz, lb, qt, ad, kc, gm, nx, oi]
+Rotor1: [wsugfpdaolxkmqvhbintjzecry]
+Rotor2: [zvdaqbgnheucroysfkmpwlixjt]
+Rotor3: [iukycldwrfqxgmtsnjbehzpvao]
+Date: 1943/4/19
+PlugBoard: [kq, oy, ja, wg, zl, vi, pu, mh]
+Rotor1: [xolmfekszrucpydjtainwvbqhg]
+Rotor2: [fjdasrvlwzqpmixekhntuogbcy]
+Rotor3: [afyhvbrdqikusmglotjwneczxp]
+Date: 1944/9/1
+PlugBoard: [jk, zu, am, ly, hg, id, cx, os]
+Rotor1: [sqajlocemhrgnuitvzdwfxbpyk]
+Rotor2: [pbzkuctxmhndyvgaofjiqwserl]
+Rotor3: [dtjsoxzafrlucnbwmgihekvpyq]
